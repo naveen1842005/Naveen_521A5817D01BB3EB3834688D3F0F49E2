@@ -18,4 +18,4 @@ bowler = Bowler()
 
 # Call the play() method for each object
 batsman.play()
-bowler.play(
+bowler.play()
